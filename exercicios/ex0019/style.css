@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body {
+    background-color: #F4E4CB;
+    font-family: "Montserrat";
+}
+
+h1 {
+    color: #52432c;
+}
+
+h1#principal {
+    color: #F4E4CB;
+    text-align: center;
+    background-color: #735E3D;
+}
+
+h2 {
+    color: #735E3D;
+}
+
+.basico{
+    color: #F4E4CB;
+    text-align: center;
+    background-color: #52432c;
+}
+
+p {
+    color: #735E3D;
+}
+
+.destaque {
+    color: #ff9900;
+}

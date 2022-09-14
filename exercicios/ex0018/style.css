@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    text-align: left;
+    font: normal 16px 'Montserrat'
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
